@@ -1,37 +1,25 @@
-
-
 # Level 7 - for this role
 
-# Timeline - details early this week, Tue or Wed
+Additional expectations on comp - after final compliance check. normally 24 hours but holidays
 
+### Annual Base Salary
+$260,000 - because short of ask
 
-## Annual Base Salary
-$350,000
+### Sign On Bonus
+$40k
 
-## Sign On Bonus Potential
-$100,000
+### annual bonus, quoted 25% - potential, $65k
 
-## Annual Bonus  25% of base
+- Year 1 - $566 (260 + 40 + 65 + 201)
+- Year 2 - $495 (260 + 65 + 170)
 
+### RSU - Restricted Stock Units
+- $530k GSU, 4 year vesting, front loaded 70% over two years, 30% over last two years
+- 38% - 12 Months $201k 
+- 32% - 12 Months $170k 
+- 20% - 12 Months $106k
+- 10% - 12 Months $53k
 
-## RSU - Restricted Stock Units
-
-$750,000
-
-not getting to 700
-
-
-TC: $1,100,000
-Preapproved: $420,000 base of 200-250
-
-- Sign on bonus to support 
-
-4 year vesting, front loaded
-70% over two years - Monthly 38% year 1, year 2 32%
-30% over last two years, 20% year 1, 10% year 2
-
-After year 1 - equity in the company refresh with annual performace review
-- With it's own 4 year 38, 32, 20, 10% vesting
 
 
 ## Requested benefits and materials
@@ -40,7 +28,6 @@ After year 1 - equity in the company refresh with annual performace review
 ## Pay Cycle
 
 
-## Refreshers
 
 
 ## Relocation
@@ -52,16 +39,16 @@ After year 1 - equity in the company refresh with annual performace review
 
 
 ## Benefits
-- 401K - details in email
-- vanguard
-$ 11,750 - match on contribuations up to 50%
-- up to $3000 on roth
+- 401K - normal benefits / federal limits
+- Program is through Vanguard 401K
+- RSU Brokerage is through Morgan Stanley or Schwab
 
-# Match of charity donations
-Give through portal
+### Refreshers
 
-Brokerage is through Morgan Stanley or Schwab
-- 
+
+### Match of charity donations
+Give program through portal
+
 
 
 ## Training Programs available / college benefits (family?)
@@ -78,4 +65,4 @@ Brokerage is through Morgan Stanley or Schwab
 after 5 years 25 days + 5 days = 30
 
 Roll over from year to year
-- TBD - wil read
+- TBD - will read
