@@ -23,4 +23,4 @@ Relocation Min 2B/2B
 Can housing change? Extend or undo if the apartment can't be found.
 
 
-Language Learning - $5k for first year after start date.
+Language Learning - $5k for first year after start date. English Only
